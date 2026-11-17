@@ -1,0 +1,17 @@
+# Do not commit secrets or lab export artifacts
+*.key
+*.pem
+*.pfx
+*.p12
+*.kdbx
+*.rdp
+*.evtx
+*credentials*
+*password*
+*secret*
+*token*
+*.log
+*.pcap
+*.pcapng
+.DS_Store
+Thumbs.db

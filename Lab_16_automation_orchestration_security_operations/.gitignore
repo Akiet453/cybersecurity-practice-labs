@@ -1,0 +1,11 @@
+# Do not commit secrets, logs, archives, or exported credentials
+*.tar
+*.tar.gz
+*.zip
+*.log
+*.pfx
+*.p12
+*.key
+*.kdbx
+.env
+*.env

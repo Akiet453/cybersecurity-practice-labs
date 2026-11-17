@@ -1,0 +1,21 @@
+# Keep credentials, captures, and executable artifacts out of this training portfolio
+*.pem
+*.key
+*.pfx
+*.p12
+*.evtx
+*.pcap
+*.pcapng
+*.dump
+*.dmp
+*.bin
+*.exe
+*.ps1
+*.sh
+*.pdf
+.env
+.env.*
+secrets*
+credentials*
+msf.pdf
+__pycache__/

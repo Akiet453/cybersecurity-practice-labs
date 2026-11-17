@@ -1,0 +1,9 @@
+Thumbs.db
+.DS_Store
+*.blg
+*.etl
+*.exe
+*.msi
+*.zip
+*.pdf
+*.log

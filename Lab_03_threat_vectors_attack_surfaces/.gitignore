@@ -1,0 +1,22 @@
+# Keep generated attack artifacts and sensitive lab material out of version control
+*.pdf
+*.exe
+*.dll
+*.bin
+*.pcap
+*.pcapng
+*.pem
+*.key
+*.pfx
+*.p12
+*.kdbx
+.env
+.env.*
+credentials*
+secrets*
+# Training exercise binary / document
+msf.pdf
+# OS and editor noise
+.DS_Store
+Thumbs.db
+*.tmp

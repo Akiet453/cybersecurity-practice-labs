@@ -1,0 +1,13 @@
+# Avoid exposing local secrets and disposable lab files
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+*token*
+*secret*
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/

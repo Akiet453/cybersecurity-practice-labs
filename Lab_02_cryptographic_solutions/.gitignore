@@ -1,0 +1,15 @@
+# Do not accidentally commit generated cryptographic material
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.csr
+*.crt
+*.der
+*.bin
+
+# Local files and OS artifacts
+.DS_Store
+Thumbs.db

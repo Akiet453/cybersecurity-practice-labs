@@ -1,0 +1,10 @@
+# Exclude binaries, backups, logs, and local system artifacts
+*.exe
+*.msi
+*.zip
+*.bak
+*.sql
+*.log
+*.tmp
+.DS_Store
+Thumbs.db

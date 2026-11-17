@@ -1,0 +1,18 @@
+# Never publish credential or secrets material
+*secretsdump*
+*credential-dump*
+*hashes.txt
+*.kirbi
+*.ccache
+*.key
+*.pfx
+*.p12
+id_rsa*
+*.pem
+*.sam
+*.ntds
+*.dit
+*.pot
+*.log
+# Exclude source instructional documents
+lab_instructions_*.pdf

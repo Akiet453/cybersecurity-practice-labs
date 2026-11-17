@@ -1,0 +1,10 @@
+# Local backup archives and restore data (not part of evidence)
+*.pbd
+*.vhd
+*.vhdx
+*.bak
+*.zip
+*.7z
+*.rar
+Thumbs.db
+.DS_Store

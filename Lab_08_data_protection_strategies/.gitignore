@@ -1,0 +1,20 @@
+# Local training notes, instructions, and generated files
+*.pdf
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Secrets and certificates/private keys
+.env
+.env.*
+*.key
+*.pfx
+*.p12
+*.pem
+*secret*
+*password*
+
+# Disposable integrity-check output if exercises are repeated
+hashcheck.txt
+sha256check.txt
